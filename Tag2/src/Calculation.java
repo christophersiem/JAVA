@@ -1,4 +1,5 @@
 // Ermöglicht user input
+
 import java.util.Scanner;
 
 public class Calculation {
@@ -16,7 +17,7 @@ public class Calculation {
         System.out.println("Guten Tag " + userName + ". Möchtest du ein Spiel spielen (Y/N)");
         spiel = aGame.nextLine();
 
-          if (spiel.equals("Y")|| spiel.equals("y")) {
+        if (spiel.equals("Y") || spiel.equals("y")) {
             System.out.println("Super! Auf gehts!");
         } else if (spiel.equals("N") || spiel.equals("n")) {
             System.out.println("Schade.");
