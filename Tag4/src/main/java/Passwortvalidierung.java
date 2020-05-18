@@ -10,7 +10,7 @@ public class Passwortvalidierung {
 
         //Mindestens eine Zahl
 
-        boolean containsnumber = Character.isUpperCase()
+        boolean containsnumber = Character.isUpperCase();
 
         if (containsnumber == false) {
             return "Bitte verwende mindestens eine Zahl";
