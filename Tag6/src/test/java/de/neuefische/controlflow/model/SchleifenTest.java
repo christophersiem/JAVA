@@ -1,3 +1,6 @@
+package de.neuefische.controlflow.model;
+
+import de.neuefische.controlflow.model.Schleifen;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

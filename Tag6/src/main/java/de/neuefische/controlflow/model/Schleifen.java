@@ -1,4 +1,7 @@
+package de.neuefische.controlflow.model;
+
 public class Schleifen {
+// static = Methode hängt an Klasse, nicht an Objekt
 
     public static int fakultätMitFor(int fakultät) {
 

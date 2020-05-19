@@ -1,3 +1,5 @@
+package de.neuefische.controlflow.model;
+
 public class Arrays {
 
     public static void ArrayClass() {
